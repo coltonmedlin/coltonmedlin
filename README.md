@@ -3,7 +3,8 @@
 
 ********************
 
-:round_pushpin: Los Angeles - [linkedin](http://www.linkedin.com/in/coltonmedlin)
+:round_pushpin: Los Angeles <br>
+find me on [[![LinkedIn][3.2]][3]](http://www.linkedin.com/in/coltonmedlin)
 
 ********************
 
