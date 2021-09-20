@@ -4,7 +4,7 @@
 ********************
 
 :round_pushpin: Los Angeles <br>
-find me on <a href="http://www.linkedin.com/in/coltonmedlin"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
+find me on <a href="http://www.linkedin.com/in/coltonmedlin"><img src="https://img.icons8.com/ios-filled/20/ffffff/linkedin.png"/></a>
 
 ********************
 
